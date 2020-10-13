@@ -12,3 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+.gradle
+.build.gradle
+.gradlew
+.settings.gradle
